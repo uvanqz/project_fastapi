@@ -21,8 +21,6 @@
 
 docker-compose up --build
 
-# После запуска проекта доступны:
-
     Документация: http://0.0.0.0:8000/swagger
     Метрика: http://0.0.0.0:8000/metrics
     Prometheus: http://0.0.0.0:9090
